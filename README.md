@@ -76,6 +76,9 @@ The dashboard includes interactive features and clear visual summaries:
 Dashboard file:  
 [sales_dashboard.pbix](sales_dashboard.pbix)
 
+
+
+
 ---
 
 ## 🛠️ Tools Used
@@ -85,6 +88,11 @@ Dashboard file:
 - Git & GitHub  
 
 ---
+
+### 📸 Dashboard Preview  
+![Dashboard Preview](cleaned_salesdata_dashboard.png)
+
+The dashboard includes interactive features and clear visual summaries:
 
 ## 📌 Conclusion
 
