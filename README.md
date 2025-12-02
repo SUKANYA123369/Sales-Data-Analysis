@@ -6,19 +6,19 @@ This project presents a complete data analytics workflow—from cleaning raw sal
 
 ## 📁 Project Structure
 
-All project files are organized and linked for easy access:
+All project files are linked below:
 
 - **Raw Dataset:**  
-  [`raw_sales_dataset.csv`](data/raw_sales_dataset.csv)
+  [raw_sales_dataset.csv](raw_sales_dataset.csv)
 
 - **Python Cleaning Script:**  
-  [`sales_data_cleaning.py`](scripts/sales_data_cleaning.py)
+  [sales_data_cleaning.py](sales_data_cleaning.py)
 
 - **Cleaned Dataset:**  
-  [`cleaned_dataset.csv`](data/cleaned_dataset.csv)
+  [cleaned_dataset.csv](cleaned_dataset.csv)
 
 - **Power BI Dashboard:**  
-  [`sales_dashboard.pbix`](dashboard/sales_dashboard.pbix)
+  [sales_dashboard.pbix](sales_dashboard.pbix)
 
 ---
 
@@ -47,10 +47,10 @@ The raw data had issues such as:
 Using **Pandas**, these issues were systematically cleaned and exported as a finalized dataset.
 
 - Cleaned dataset:  
-  [`cleaned_dataset.csv`](data/cleaned_dataset.csv)
+  [cleaned_dataset.csv](cleaned_dataset.csv)
 
 - Full cleaning script:  
-  [`sales_data_cleaning.py`](scripts/sales_data_cleaning.py)
+  [sales_data_cleaning.py](sales_data_cleaning.py)
 
 ---
 
@@ -74,7 +74,7 @@ The dashboard includes interactive features and clear visual summaries:
 - Monthly Sales Trend (Line Chart)  
 
 Dashboard file:  
-[`sales_dashboard.pbix`](dashboard/sales_dashboard.pbix)
+[sales_dashboard.pbix](sales_dashboard.pbix)
 
 ---
 
