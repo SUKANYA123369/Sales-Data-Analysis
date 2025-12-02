@@ -1,0 +1,201 @@
+Sale_ID,Region,Product,Salesperson,Quantity,Unit_Price,Sale_Date,Customer_ID
+S1000,South,,Bob,10,2000.0,09-02-2023,
+S1001,SOUTH,Laptop,Bob,4,2000.0,2023-03-21,
+S1002,east ,Camera,,5,-200.0,22/10/2023,
+S1003,North,Mobile ,Alice,,2000.0,04-30-2023,C17
+S1004,East,laptop,Alice,2,99999.0,08-07-2023,
+S1005,north,Mobile ,charlie ,5,2000.0,09-15-2023,c25
+S1006,North,Camera,bob,3,,,C39
+S1007,north,Mobile ,bob,5,1000.0,2023-13-40,
+S1008,east ,Laptop,Charlie,4,99999.0,29/05/2023,
+S1009,east ,Laptop,Bob,3,2000.0,2023-04-04,C31
+S1010,West,laptop,bob,5,99999.0,,C21
+S1011,South,,EVE,,2000.0,2023-07-14,C6
+S1012,North,Laptop,Daisy,3,1500.0,2023-13-40,
+S1013,east ,Camera,,,2000.0,2023-05-19,c33
+S1014,North,Mobile ,Alice,3,-200.0,22/01/2023,C33
+S1015,East,Headphones,Daisy,3,99999.0,08-09-2023,c25
+S1016,East,Mobile,charlie ,-1,,2023-13-40,C44
+S1017,SOUTH,Mobile,Daisy,10,-200.0,17/02/2023,c3
+S1018,East,Headphones,EVE,-1,1000.0,02-23-2023,
+S1019,North,Tablet,Charlie,2,99999.0,2023-01-11,C4
+S1020,East,Mobile,Alice,3,500.0,2023-10-18,c8
+S1021,North,Tablet,charlie ,10,1000.0,2023-13-40,c33
+S1022,South,Mobile ,charlie ,-1,1000.0,10-05-2023,
+S1023,South,Mobile,EVE,1,500.0,2023-09-06,
+S1024,east ,Headphones,Daisy,3,99999.0,2023-13-40,c34
+S1025,east ,Laptop,Charlie,1,2000.0,2023-01-25,C15
+S1026,north,Camera,bob,5,1000.0,06-08-2023,C41
+S1027,east ,,Alice,3,1500.0,2023-13-40,
+S1028,East,Tablet,,,-200.0,14/09/2023,c36
+S1029,South,Tablet,Bob,,,29/03/2023,
+S1030,north,Mobile ,EVE,3,99999.0,2023-13-40,
+S1031,north,Headphones,,2,500.0,2023-07-15,c16
+S1032,North,Laptop,,1,-200.0,2023-06-16,c18
+S1033,east ,,Daisy,4,-200.0,23/02/2023,
+S1034,SOUTH,Laptop,Alice,10,1000.0,2023-09-04,
+S1035,east ,Laptop,Charlie,3,1000.0,2023-10-21,
+S1036,North,Mobile ,charlie ,1,99999.0,05/08/2023,
+S1037,South,,EVE,3,1000.0,,
+S1038,East,Mobile,Charlie,3,-200.0,,C2
+S1039,north,laptop,bob,1,1000.0,,
+S1040,East,Laptop,Bob,-1,500.0,08/01/2023,
+S1041,SOUTH,laptop,Charlie,3,500.0,20/03/2023,
+S1042,East,Tablet,Charlie,1,2000.0,2023-07-05,C2
+S1043,East,Tablet,Alice,4,-200.0,2023-08-26,C46
+S1044,SOUTH,Laptop,EVE,4,,2023-10-08,
+S1045,SOUTH,Mobile ,Bob,10,1000.0,2023-13-40,C49
+S1046,north,Headphones,charlie ,,1000.0,,C22
+S1047,West,Laptop,bob,,2000.0,02-03-2023,C38
+S1048,North,Mobile ,Daisy,,2000.0,10/09/2023,
+S1049,north,laptop,Bob,1,2000.0,20/07/2023,c37
+S1050,North,,bob,10,99999.0,2023-03-19,C26
+S1051,West,Laptop,bob,10,-200.0,05-09-2023,c26
+S1052,north,laptop,,10,500.0,2023-01-31,
+S1053,West,,Alice,4,1500.0,2023-05-29,
+S1054,North,Camera,EVE,1,2000.0,21/05/2023,c18
+S1055,East,Headphones,Charlie,,2000.0,25/02/2023,c40
+S1056,north,laptop,bob,3,99999.0,2023-10-07,C5
+S1057,North,Headphones,charlie ,5,99999.0,2023-04-02,
+S1058,East,,Bob,3,,2023-06-12,c42
+S1059,north,Mobile ,bob,-1,2000.0,09/07/2023,c36
+S1060,north,Mobile,EVE,10,,2023-01-27,
+S1061,east ,laptop,Charlie,10,1500.0,2023-13-40,c1
+S1062, west,Headphones,Daisy,10,1500.0,08/05/2023,
+S1063,West,Laptop,Daisy,2,,01-23-2023,
+S1064, west,laptop,Charlie,5,-200.0,09-10-2023,
+S1065,West,laptop,Daisy,3,2000.0,27/09/2023,C31
+S1066,West,,,10,500.0,2023-10-16,
+S1067,SOUTH,Laptop,Bob,4,2000.0,15/05/2023,C35
+S1068,north,Mobile,,2,2000.0,2023-13-40,C16
+S1069,East,Mobile ,Bob,3,1000.0,2023-10-12,C36
+S1070,east ,Laptop,,3,99999.0,2023-13-40,
+S1071,SOUTH,Headphones,Charlie,,500.0,2023-03-17,C23
+S1072, west,Laptop,bob,5,1500.0,06-15-2023,c36
+S1073,North,Mobile,Daisy,,99999.0,2023-01-25,C25
+S1074,North,laptop,Bob,1,2000.0,23/06/2023,c38
+S1075,north,Camera,Bob,1,1000.0,09/02/2023,c26
+S1076,North,Headphones,Daisy,-1,1500.0,,c43
+S1077,North,,Bob,5,99999.0,12/04/2023,C39
+S1078,South,laptop,Charlie,,,2023-13-40,
+S1079, west,laptop,Bob,,-200.0,27/04/2023,C18
+S1080,east ,Mobile ,Daisy,4,1000.0,2023-13-40,c21
+S1081,SOUTH,,Bob,,1000.0,05/02/2023,C47
+S1082,North,Headphones,,5,500.0,2023-06-08,
+S1083,SOUTH,Headphones,charlie ,5,99999.0,2023-10-21,
+S1084,North,Tablet,EVE,3,1500.0,2023-08-26,
+S1085,East,Headphones,bob,3,500.0,2023-13-40,c41
+S1086, west,Mobile ,,,,2023-13-40,
+S1087,North,Laptop,charlie ,4,1000.0,2023-08-23,c25
+S1088,north,Camera,EVE,1,-200.0,19/07/2023,C17
+S1089,South,Camera,Charlie,1,1500.0,2023-03-17,C4
+S1090,North,Mobile,,10,99999.0,03-15-2023,c12
+S1091,east ,Mobile,bob,,500.0,,c33
+S1092,West,Tablet,,2,1000.0,2023-02-28,C29
+S1093,SOUTH,,,-1,-200.0,2023-04-24,c41
+S1094,north,Laptop,Alice,10,99999.0,04-21-2023,C5
+S1095,east ,Camera,EVE,4,1000.0,07-27-2023,c16
+S1096,SOUTH,,Daisy,2,1500.0,2023-03-19,c50
+S1097,east ,laptop,charlie ,4,1000.0,06-20-2023,
+S1098,SOUTH,Camera,bob,4,1000.0,2023-13-40,
+S1099,South,laptop,Charlie,2,99999.0,2023-05-28,C8
+S1100,north,laptop,bob,3,,,C41
+S1101,North,Headphones,bob,3,2000.0,05-03-2023,
+S1102,north,Mobile,charlie ,-1,1500.0,14/05/2023,C37
+S1103, west,Laptop,Bob,2,1000.0,08/09/2023,
+S1104,North,Tablet,Alice,3,1000.0,02-25-2023,c11
+S1105, west,Mobile ,Daisy,3,-200.0,01/09/2023,c19
+S1106,north,Mobile ,Alice,3,,07-18-2023,C34
+S1107,north,laptop,Alice,3,99999.0,04-29-2023,
+S1108,West,Laptop,Daisy,4,1000.0,30/04/2023,c42
+S1109,West,Mobile,Daisy,1,,07-30-2023,C16
+S1110,east ,Tablet,EVE,5,99999.0,04-06-2023,
+S1111,east ,Tablet,Bob,4,,12/10/2023,C8
+S1112, west,Headphones,Alice,,,07-28-2023,C1
+S1113,North,,Alice,-1,2000.0,02-20-2023,c1
+S1114,West,Headphones,Alice,10,-200.0,2023-01-12,C32
+S1115,east ,,Alice,4,2000.0,2023-09-20,c29
+S1116,West,Tablet,Charlie,5,99999.0,04/05/2023,c40
+S1117, west,Mobile ,charlie ,4,99999.0,09/05/2023,c27
+S1118,north,Mobile ,Daisy,5,2000.0,05-22-2023,C3
+S1119,East,Camera,Bob,10,-200.0,07/03/2023,C3
+S1120,north,Laptop,bob,10,99999.0,2023-13-40,
+S1121,East,Headphones,Alice,3,,2023-13-40,c31
+S1122,East,Camera,Daisy,1,1500.0,2023-13-40,c29
+S1123,North,Tablet,charlie ,,1500.0,2023-02-23,c48
+S1124,West,Headphones,Daisy,3,1000.0,07/03/2023,
+S1125,East,Laptop,Alice,10,1000.0,,c4
+S1126, west,Mobile,Bob,2,-200.0,2023-01-29,c18
+S1127,West,Tablet,Alice,3,-200.0,2023-13-40,c10
+S1128,north,Camera,EVE,,,11/07/2023,
+S1129,east ,laptop,charlie ,3,99999.0,23/07/2023,C1
+S1130, west,Mobile,Alice,1,,2023-10-21,
+S1131,North,Mobile ,,3,1500.0,10-04-2023,c45
+S1132,east ,,Alice,3,2000.0,2023-10-07,C28
+S1133,North,Mobile ,Alice,2,,01-17-2023,c49
+S1134,East,Laptop,charlie ,-1,1500.0,,
+S1135,SOUTH,Laptop,EVE,4,-200.0,2023-07-27,C48
+S1136, west,Mobile ,Daisy,5,1500.0,2023-05-01,
+S1137, west,Mobile,Alice,3,1500.0,01-14-2023,c7
+S1138, west,Headphones,charlie ,10,1500.0,10-18-2023,
+S1139,North,Tablet,charlie ,3,2000.0,13/02/2023,C43
+S1140,east ,Camera,,2,2000.0,,
+S1141,north,Camera,Alice,3,,04-11-2023,C37
+S1142,SOUTH,Headphones,EVE,10,,,C29
+S1143,SOUTH,Mobile,Bob,-1,1000.0,,C2
+S1144,South,Mobile,Bob,2,500.0,09/09/2023,c46
+S1145,West,laptop,charlie ,3,2000.0,16/05/2023,C1
+S1146,West,Camera,,10,2000.0,,
+S1147,South,,Bob,5,500.0,02-07-2023,c33
+S1148,north,Camera,,1,,2023-13-40,C45
+S1149,North,laptop,,-1,500.0,2023-03-18,
+S1150,SOUTH,Tablet,Daisy,,-200.0,05/09/2023,
+S1151,West,Tablet,Bob,1,-200.0,07-29-2023,c16
+S1152,East,Mobile,Bob,2,500.0,04-25-2023,c41
+S1153,West,Laptop,,5,1000.0,30/06/2023,C32
+S1154,North,Mobile,bob,5,-200.0,2023-02-02,
+S1155,West,Camera,Daisy,10,500.0,2023-06-18,C30
+S1156,South,Camera,charlie ,2,99999.0,2023-04-24,
+S1157,East,Headphones,EVE,3,1000.0,2023-09-10,c25
+S1158,SOUTH,Laptop,Daisy,10,,2023-08-09,c50
+S1159,SOUTH,Headphones,bob,-1,2000.0,2023-05-03,c3
+S1160,South,Camera,Alice,4,99999.0,2023-07-10,C13
+S1161,north,Mobile ,charlie ,2,,04-10-2023,c7
+S1162,East,Mobile ,Charlie,-1,,10-01-2023,C12
+S1163,east ,Mobile ,Bob,4,1000.0,,c45
+S1164,SOUTH,Camera,bob,5,1000.0,07/10/2023,C27
+S1165,east ,Mobile,charlie ,2,,2023-04-18,C44
+S1166,West,,EVE,,1000.0,2023-04-14,
+S1167,north,laptop,Alice,,-200.0,27/04/2023,c12
+S1168,SOUTH,laptop,Daisy,3,500.0,2023-09-22,C13
+S1169,South,Headphones,EVE,5,-200.0,2023-13-40,C26
+S1170,North,Mobile ,EVE,10,1500.0,02/01/2023,c20
+S1171,SOUTH,Laptop,Daisy,-1,1500.0,07-08-2023,
+S1172,South,Laptop,,-1,1000.0,16/08/2023,
+S1173,east ,Mobile ,Daisy,,99999.0,20/06/2023,C37
+S1174,South,Tablet,bob,5,500.0,04-17-2023,
+S1175,north,laptop,charlie ,5,500.0,04-13-2023,c19
+S1176,East,,,1,1000.0,31/01/2023,c9
+S1177,North,Headphones,Daisy,3,99999.0,05-23-2023,C13
+S1178,north,Laptop,EVE,10,-200.0,03/09/2023,C1
+S1179,North,Tablet,Charlie,10,2000.0,2023-08-18,c30
+S1180,North,Camera,,3,2000.0,2023-13-40,C10
+S1181,north,,Alice,1,500.0,24/03/2023,C21
+S1182,East,Mobile ,Bob,1,,05-31-2023,C33
+S1183,West,laptop,bob,3,1500.0,04/10/2023,c8
+S1184,North,Mobile ,Charlie,2,-200.0,07/01/2023,C41
+S1185,North,laptop,EVE,1,1000.0,2023-07-22,c38
+S1186,West,Mobile,Daisy,,2000.0,15/05/2023,C32
+S1187,North,laptop,Bob,1,2000.0,2023-09-09,c17
+S1188,South,Mobile,Daisy,2,500.0,09-10-2023,c36
+S1189,North,Mobile ,EVE,-1,,08-22-2023,c11
+S1190,South,Mobile,,-1,1500.0,06/02/2023,c5
+S1191,east ,Mobile ,Bob,,500.0,06-04-2023,C8
+S1192,East,Laptop,Alice,4,1500.0,2023-13-40,c4
+S1193,SOUTH,Tablet,EVE,5,99999.0,23/10/2023,
+S1194,North,Mobile,Alice,,-200.0,2023-07-09,C20
+S1195,East,Mobile ,Charlie,1,,11/09/2023,c32
+S1196,East,Mobile,EVE,5,-200.0,09-11-2023,C50
+S1197,West,,bob,-1,1000.0,15/02/2023,C46
+S1198,West,Mobile,Alice,,2000.0,2023-13-40,
+S1199, west,Mobile,Daisy,5,99999.0,2023-13-40,
