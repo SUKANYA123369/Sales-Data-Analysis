@@ -61,4 +61,5 @@ df1 = pd.read_csv("cleaned_salesdata.csv")
 # print(df1.head(5))
 df1['total_amount'] = df1['quantity'] * df1['unit_price']
 print(df1.head(5))
+# saving the cleaned dataset to csv file
 df1.to_csv('cleaned_dataset.csv')
