@@ -1,12 +1,12 @@
 # 📊 Sales Data Analysis & Power BI Dashboard
 
-This project showcases an end-to-end data analytics workflow using Python for data cleaning and Power BI for dashboard creation.
+This project presents a complete data analytics workflow—from cleaning raw sales data in Python to building an interactive Power BI dashboard for business insights.
 
 ---
 
 ## 📁 Project Structure
 
-All files in the repository are linked below for quick access:
+All project files are organized and linked for easy access:
 
 - **Raw Dataset:**  
   [`raw_sales_dataset.csv`](data/raw_sales_dataset.csv)
@@ -24,41 +24,41 @@ All files in the repository are linked below for quick access:
 
 ## 📝 Project Overview
 
-The project involves cleaning messy sales data and building an interactive dashboard to explore:
+The objective of this project is to clean and transform a messy sales dataset, then visualize key insights through a Power BI dashboard.  
+The analysis covers:
 
-- Sales performance  
-- Product and regional analysis  
+- Overall sales performance  
+- Regional trends  
+- Product-level insights  
 - Salesperson performance  
-- Monthly sales trends  
-
-The goal is to transform unclean data into meaningful business insights.
+- Monthly sales patterns  
 
 ---
 
-## 🧹 Data Cleaning (Python)
+## 🧹 Data Cleaning (Python Workflow)
 
-The raw dataset contained:
+The raw data had issues such as:
 
-- Missing values  
-- Unknown categories  
-- Duplicate records  
+- Missing and unknown values  
+- Duplicate entries  
 - Incorrect data types  
+- Unstandardized text fields  
 
-These issues were resolved using Pandas, and the cleaned dataset was exported as:
+Using **Pandas**, these issues were systematically cleaned and exported as a finalized dataset.
 
-📄 [`cleaned_dataset.csv`](data/cleaned_dataset.csv)
+- Cleaned dataset:  
+  [`cleaned_dataset.csv`](data/cleaned_dataset.csv)
 
-You can view the full cleaning process in:
-
-📄 [`sales_data_cleaning.py`](scripts/sales_data_cleaning.py)
+- Full cleaning script:  
+  [`sales_data_cleaning.py`](scripts/sales_data_cleaning.py)
 
 ---
 
-## 📈 Dashboard Highlights
+## 📈 Power BI Dashboard Highlights
 
-The Power BI dashboard includes:
+The dashboard includes interactive features and clear visual summaries:
 
-### ✔ Interactive Filters
+### ✔ Filters (Slicers)
 - Region  
 - Salesperson  
 - Product  
@@ -67,33 +67,28 @@ The Power BI dashboard includes:
 - Total Sales  
 - Quantity Sold  
 
-### ✔ Visualizations
+### ✔ Visuals
 - Total Sales by Region (Clustered Column Chart)  
 - Total Sales by Product (Column Chart)  
 - Total Sales by Salesperson (Column Chart)  
 - Monthly Sales Trend (Line Chart)  
 
 Dashboard file:  
-📁 [`sales_dashboard.pbix`](dashboard/sales_dashboard.pbix)
+[`sales_dashboard.pbix`](dashboard/sales_dashboard.pbix)
 
 ---
 
-
-
 ## 🛠️ Tools Used
-
 - Python (Pandas)  
 - Power BI  
 - Visual Studio Code  
 - Git & GitHub  
 
 ---
- 
 
 ## 📌 Conclusion
 
-This project demonstrates a complete workflow—from raw data to insights.  
-The cleaned dataset and Power BI dashboard help identify key sales trends across regions, products, and salespersons.  
-It provides clear, actionable insights that support better business decisions.
+This project demonstrates how raw, unstructured data can be transformed into clear, actionable insights.  
+Through effective cleaning and visualization, the dashboard provides a strong foundation for understanding sales trends and supporting data-driven decision-making.
 
 ---
