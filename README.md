@@ -22,7 +22,7 @@ All project files are linked below:
 
 ---
 
-## 📝 Project Overview
+##  Project Overview
 
 The objective of this project is to clean and transform a messy sales dataset, then visualize key insights through a Power BI dashboard.  
 The analysis covers:
@@ -54,7 +54,7 @@ Using **Pandas**, these issues were systematically cleaned and exported as a fin
 
 ---
 
-## 📈 Power BI Dashboard Highlights
+## Power BI Dashboard Highlights
 
 The dashboard includes interactive features and clear visual summaries:
 
@@ -63,11 +63,11 @@ The dashboard includes interactive features and clear visual summaries:
 - Salesperson  
 - Product  
 
-### ✔ Key Metrics
+###  Key Metrics
 - Total Sales  
 - Quantity Sold  
 
-### ✔ Visuals
+###  Visuals
 - Total Sales by Region (Clustered Column Chart)  
 - Total Sales by Product (Column Chart)  
 - Total Sales by Salesperson (Column Chart)  
